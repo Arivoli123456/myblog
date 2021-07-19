@@ -1,3 +1,4 @@
-function changecolor(){
-    document.getElementById("h1").style.color="aqua";
+function changecolor()
+{
+    document.getElementById("heading").style.color="white";
 }
